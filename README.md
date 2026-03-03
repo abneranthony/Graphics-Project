@@ -18,7 +18,7 @@ This project served as my introduction to Object-Oriented Programming. I am curr
 
 How to run on your own:
 
-1. Copy the code in Project.js.
+1. Copy the code in Final Project.js.
 2. Paste it into the CodeHS Sandbox or any JavaScript environment that supports the CodeHS Graphics Library.
 3. Press Run.
 
