@@ -16,6 +16,10 @@ This project served as my introduction to Object-Oriented Programming. I am curr
 
 [Click here to view the live interactive demo on CodeHS!](https://codehs.com/share/id/tell-a-story-24TXyL/run)
 
+
+*it might take a few seconds to load so please be patient!*
+
+
 How to run on your own:
 
 1. Copy the code in Final Project.js.
@@ -24,6 +28,7 @@ How to run on your own:
 
 <details>
 <summary><b>Click to view my full project reflections</b></summary>
+
 
 Program Design, Function, and Purpose;
 Identified User: The expected user is an individual looking for a digital visualization or a UI designer testing color.
